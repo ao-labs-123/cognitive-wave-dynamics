@@ -24,3 +24,26 @@ This repository acts as the active behavioral layer, taking the 3D-allocated spa
 ```
 
 ## Project StructureProject Structure
+
+```text
+Cognitive-Wave-Dynamics/
+├── README.md                  # Documentation
+├── requirements.txt           # Dependencies (numpy, scipy, etc.)
+├── pyproject.toml             # Package configuration
+│
+├── data/                      # Input 3D spatialized graph data
+│   └── spatial_graph.json
+│
+├── src/                       # Core simulation engine
+│   ├── __init__.py
+│   ├── superposition.py       # Manages particle clouds & wave fluctuations
+│   ├── entanglement.py        # Manages non-local correlations & physics links
+│   └── collapse.py            # Handles observation triggers & state resolution
+│
+├── visualize/                 # Interactive 3D viewer & animation renderers
+│   └── render_dynamic_3d.py   # Real-time wave & collapse visualizer
+│
+└── tests/                     # Unit tests
+    └── test_dynamics.py
+
+```
