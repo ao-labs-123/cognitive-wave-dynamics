@@ -47,3 +47,5 @@ Cognitive-Wave-Dynamics/
     └── test_dynamics.py
 
 ```
+
+## Getting Started
