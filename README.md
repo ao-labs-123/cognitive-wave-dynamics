@@ -49,3 +49,8 @@ Cognitive-Wave-Dynamics/
 ```
 
 ## Getting Started
+```text
+git clone [https://github.com/ao-labs-123/cognitive-wave-dynamics.git](https://github.com/ao-labs-123/cognitive-wave-dynamics.git)
+cd cognitive-wave-dynamics
+pip install -r requirements.txt
+```
