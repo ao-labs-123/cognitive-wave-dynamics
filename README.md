@@ -60,3 +60,9 @@ pip install -r requirements.txt
 ```text
 python visualize/render_dynamic_3d.py
 ```
+## Tech Stack
+```text
+ Language: Python 3.x
+ Numerical Computation: NumPy / SciPy
+ Visualization: Plotly / Three.js (for interactive 3D wave rendering)
+```
