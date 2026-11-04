@@ -21,3 +21,6 @@ This repository acts as the active behavioral layer, taking the 3D-allocated spa
 
 ```text
 [topological-mapper] ──(Topology JSON)──> [Spatial-allocation] ──(3D Coordinates)──> [Cognitive-Wave-Dynamics] ──(Fluid Sim & Collapse)
+```
+
+## Project StructureProject Structure
