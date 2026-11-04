@@ -49,8 +49,14 @@ Cognitive-Wave-Dynamics/
 ```
 
 ## Getting Started
+1. Installation
 ```text
 git clone [https://github.com/ao-labs-123/cognitive-wave-dynamics.git](https://github.com/ao-labs-123/cognitive-wave-dynamics.git)
 cd cognitive-wave-dynamics
 pip install -r requirements.txt
+```
+2. Running the Simulation
+
+```text
+python visualize/render_dynamic_3d.py
 ```
