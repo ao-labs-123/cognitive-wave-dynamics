@@ -1,4 +1,4 @@
-# Cognitive-Wave-Dynamics
+# Cognitive Wave Dynamics
 
 A quantum-inspired cognitive dynamics engine that simulates **Superposition** (fluid waveforms), **Collapse** (state determination), and **Entanglement** (non-local semantic correlations) across 3D spatialized topological networks.
 
